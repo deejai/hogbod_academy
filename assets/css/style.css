@@ -1,0 +1,30 @@
+* {
+  border: 1px solid black;
+}
+
+body {
+  margin: 0;
+  background-color: aqua;
+}
+
+.section {
+}
+
+#nav-bar {
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  background-color: whitesmoke;
+  width: fit-content;
+}
+
+#main {
+  height: 35em;
+  background-color: antiquewhite;
+}
+
+#footer {
+  padding: 1em;
+  background-color: beige;
+}
